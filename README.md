@@ -1,0 +1,1 @@
+# cv_typst_template
